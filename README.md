@@ -1,8 +1,8 @@
-# RealAItor
+# Realaitor
 
 **A real-world experiment in AI-assisted home selling.**
 
-RealAItor documents what happens when modern AI tools are used to support a real home sale: market research, pricing logic, listing narrative, workflow planning, offer analysis, and decision support. The point is not to prove that AI can replace real estate professionals. The point is to test where AI is genuinely useful, where it is unreliable, and where human judgment still carries the work.
+Realaitor documents what happens when modern AI tools are used to support a real home sale: market research, pricing logic, listing narrative, workflow planning, offer analysis, and decision support. The point is not to prove that AI can replace real estate professionals. The point is to test where AI is genuinely useful, where it is unreliable, and where human judgment still carries the work.
 
 This is not a demo. It is not a hypothetical. It is a live experiment with a real property, real money, and real tradeoffs.
 
@@ -10,7 +10,7 @@ This is not a demo. It is not a hypothetical. It is a live experiment with a rea
 
 Can AI meaningfully assist in selling a home without pretending to be a realtor, attorney, appraiser, inspector, photographer, lender, or negotiator?
 
-RealAItor is built around a practical answer:
+Realaitor is built around a practical answer:
 
 - Use AI for research, synthesis, drafting, scenario planning, and operational leverage.
 - Use human experts for licensed judgment, market nuance, negotiation, compliance, and final decisions.
@@ -18,7 +18,7 @@ RealAItor is built around a practical answer:
 
 ## What This Project Tracks
 
-RealAItor follows the home-sale lifecycle from prep to close:
+Realaitor follows the home-sale lifecycle from prep to close:
 
 | Phase | What AI Can Support | What Still Needs Human Review |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ The end goal is not just "did the house sell?" The project should answer:
 
 ## What This Is Not
 
-RealAItor is not:
+Realaitor is not:
 
 - Real estate advice
 - Legal advice

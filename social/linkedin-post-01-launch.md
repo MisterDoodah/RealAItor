@@ -39,7 +39,7 @@ First finding? AI is surprisingly good at market research. The pricing comp repo
 
 What it can't do yet? That's coming in the next post.
 
-#AI #RealEstate #FutureOfWork #AIExperiment #RealAItor
+#AI #RealEstate #FutureOfWork #AIExperiment #Realaitor
 
 ---
 
