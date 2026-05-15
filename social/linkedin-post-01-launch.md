@@ -7,7 +7,7 @@
 
 ## DRAFT
 
-"Claude, list my house for sale. Get me the most money possible. Make no mistakes."
+"AI, help me sell my house. Get me the most money possible. Make no mistakes."
 
 That's what I typed. And then I hit enter.
 
@@ -39,7 +39,7 @@ First finding? AI is surprisingly good at market research. The pricing comp repo
 
 What it can't do yet? That's coming in the next post.
 
-#AI #RealEstate #FutureOfWork #AIExperiment #aisellsmyhouse
+#AI #RealEstate #FutureOfWork #AIExperiment #RealAItor
 
 ---
 

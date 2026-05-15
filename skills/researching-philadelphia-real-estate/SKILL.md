@@ -77,6 +77,6 @@ Philadelphia 19122 market trends 2026
 
 - Newer construction (2018) is a meaningful differentiator in this zip — many Kensington homes are older stock.
 - 2,500 sq ft is above average for the neighborhood — emphasize size in comp analysis.
-- The social series (@aisellsmyhouse) will document this research — flag anything interesting enough to be content-worthy.
+- The RealAItor social series will document this research — flag anything interesting enough to be content-worthy.
 - Transfer taxes in Philadelphia total ~4.278% (split buyer/seller) — factor into net proceeds calculations.
 - A professional appraisal is pending — research should be updated once that comes in to validate or challenge AI recommendations.
