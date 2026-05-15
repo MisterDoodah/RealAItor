@@ -1,4 +1,4 @@
-# AI Sells My House 🏠
+# RealAItor
 
 > *"Claude, list my house for sale. Get me the most money possible. Make no mistakes."*
 >
@@ -8,7 +8,7 @@
 
 ## What Is This?
 
-This is the public documentation of a real-world experiment: **selling a house using AI to drive as much of the process as possible.**
+RealAItor is the public documentation of a real-world experiment: **using AI to support as much of a home sale as possible while keeping human judgment in the loop.**
 
 ---
 
@@ -16,7 +16,7 @@ This is the public documentation of a real-world experiment: **selling a house u
 
 Selling a house touches: market research, legal compliance, pricing strategy, negotiation, marketing, and closing. It's a perfect test bed — high stakes, multiple skill domains, involves licensed professionals, and has a clear outcome (did it sell, and for how much?).
 
-I'm using [Claude](https://claude.ai) (Anthropic's AI) via [Cowork mode](https://claude.ai) to assist across every phase. I'll document:
+I'm using AI tools, including [Claude](https://claude.ai), to assist across every phase. I'll document:
 
 - ✅ What AI did well
 - ❌ Where it fell short
